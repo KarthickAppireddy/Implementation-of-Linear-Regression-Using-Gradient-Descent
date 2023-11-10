@@ -1,5 +1,5 @@
 # Implementation-of-Linear-Regression-Using-Gradient-Descent
-
+## DATE: 07/09/2023
 ## AIM:
 To write a program to predict the profit of a city using the linear regression model with gradient descent.
 
@@ -15,11 +15,9 @@ To write a program to predict the profit of a city using the linear regression m
 
 ## Program:
 ```
-/*
-Program to implement the linear regression using gradient descent.
 Developed by : KARTHICK APPIREDDY
 RegisterNumber :  212220040070
-*/
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
